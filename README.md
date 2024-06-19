@@ -56,6 +56,4 @@
 * Authorization - Auth/auth.js (only created for study purpose (not used in this application))
 * dotenv - .env(Hided from the github)
 
-## Deployed Live Server
--[Password-Reset](https://password-reset-server-cmde.onrender.com/)
-
+ 
